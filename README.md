@@ -34,7 +34,7 @@ English
 | 62 | [Angry] | [Tongue] | [Grin] | [Surprise] | [Frown] | [Ruthless] | [Blush] | [Scream] | [Puke] | [Chuckle] | [Joyful] |
 | 124 | [Slight] | [Smug] | [Hungry] | [Drowsy] | [Panic] | [Sweat] | [Laugh] | [Commando] | [Determined] | [Scold] | [Shocked] |
 | 186 | [Shhh] | [Dizzy] | [Tormented] | [Toasted] | [Skull] | [Hammer] | [Wave] | [Speechless] | [NosePick] | [Clap] | [Shame] |
-| 248 | [Trick] | [Bah! L] | [Bah! R] | [Yawn] | [Pooh-pooh] | [Shrunken] | [TearingUp] | [Sly] | [Kiss] | [Wrath] | [Whimper] |
+| 248 | [Trick] | [Bah！L] | [Bah！R] | [Yawn] | [Pooh-pooh] | [Shrunken] | [TearingUp] | [Sly] | [Kiss] | [Wrath] | [Whimper] |
 | 310 | [Cleaver] | [Watermelon] | [Beer] | [Basketball] | [PingPong] | [Coffee] | [Rice] | [Pig] | [Rose] | [Wilt] | [Lips] |
 | 372 | [Heart] | [BrokenHeart] | [Cake] | [Lightning] | [Bomb] | [Dagger] | [Soccer] | [Ladybug] | [Poop] | [Moon] | [Sun] |
 | 434 | [Gift] | [Hug] | [ThumbsUp] | [ThumbsDown] | [Shake] | [Peace] | [Fight] | [Beckon] | [Fist] | [Pinky] | [RockOn] |
