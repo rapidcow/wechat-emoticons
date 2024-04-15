@@ -30,7 +30,7 @@ English
 
 |  IMAGE X/Y  |  0  |  62  |  124  |  186  |  248  |  310  |  372  |  434  |  496  |  558  |  620  |
 | ----------- | ---- | ---- | ----- | ---- | ----- | ---- | ----- | ----- | ----- | ------- | ----- |
-| 0 | [Smile] | [Grimance] | [Drool] | [Scowl] | [CoolGuy] | [Sob] | [Shy] | [Silent] | [Sleep] | [Cry] | [Awkward] |
+| 0 | [Smile] | [Grimace] | [Drool] | [Scowl] | [CoolGuy] | [Sob] | [Shy] | [Silent] | [Sleep] | [Cry] | [Awkward] |
 | 62 | [Angry] | [Tongue] | [Grin] | [Surprise] | [Frown] | [Ruthless] | [Blush] | [Scream] | [Puke] | [Chuckle] | [Joyful] |
 | 124 | [Slight] | [Smug] | [Hungry] | [Drowsy] | [Panic] | [Sweat] | [Laugh] | [Commando] | [Determined] | [Scold] | [Shocked] |
 | 186 | [Shhh] | [Dizzy] | [Tormented] | [Toasted] | [Skull] | [Hammer] | [Wave] | [Speechless] | [NosePick] | [Clap] | [Shame] |
